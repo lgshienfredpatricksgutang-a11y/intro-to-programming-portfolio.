@@ -1,4 +1,4 @@
-
+# This is a simple Python program that prints out three words: "Coding is cool"
 
 word1 = 'Coding'
 word2 = 'is'
@@ -9,3 +9,4 @@ word3 = 'cool'
 
 print(word1, word2, word3)
 #this code prints the three words 'Coding is cool'
+
