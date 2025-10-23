@@ -1,3 +1,5 @@
+# this program tells the number of days in a month based on user input
+
 # Dictionary days in month program
 month_days = {
     1: 31, 2: 28, 3: 31, 4: 30, 5: 31, 6: 30,
