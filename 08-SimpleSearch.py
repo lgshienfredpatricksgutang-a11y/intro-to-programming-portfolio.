@@ -1,5 +1,5 @@
 
-# Basic Simple Search 
+# Basic Simple Search program
 
 # List of names
 name = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
@@ -16,3 +16,4 @@ else:
     print("Sam not found.")
 
     # End of program 
+
