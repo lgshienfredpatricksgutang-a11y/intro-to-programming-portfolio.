@@ -1,6 +1,6 @@
+# A simple Biography program
 
-# get user input 
-
+# gets user input 
 name = input("Enter your name: ")
 hometown = input("Enter your hometown: ")
 age = input("Enter your age: ")
@@ -16,4 +16,5 @@ user_info = {
 print(user_info["name"])
 print(user_info["hometown"])
 print(user_info["age"])
+
 # prints the complete dictionary
