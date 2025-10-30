@@ -1,3 +1,5 @@
+# A program that runs a quiz for different european capitals. 
+
 def european_capitals_quiz():
     # Dictionary of countries and capitals
     countries = {
@@ -38,4 +40,5 @@ def european_capitals_quiz():
 
 # Run the quiz
 european_capitals_quiz()
+
         
