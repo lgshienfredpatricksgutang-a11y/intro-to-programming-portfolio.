@@ -20,6 +20,7 @@ while True:
     else:
         print("Access Denied. Incorrect password, please try again.")
 
-        # this is just a simple demontration of a brute force attack
+    
+
 
 # Note: This is a simple demonstration and should not be used in real security systems.
